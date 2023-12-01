@@ -1,1 +1,1 @@
-prueba de como rear un repositorio 
+Este documento es una prueba de como crear un repositorio y clonarlo 
